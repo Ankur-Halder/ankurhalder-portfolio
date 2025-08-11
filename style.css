@@ -1,5 +1,5 @@
 :root {
-    --hero-overlay-color: rgba(77, 66, 16, 0.5);
+    --hero-overlay-color: rgba(54, 69, 79, 0.7);
     --skills-overlay-color: rgba(0, 0, 0, 0.5);
     --projects-overlay-color: rgba(0, 0, 0, 0.5);
     --contact-overlay-color: rgba(0, 0, 0, 0.5);
@@ -87,7 +87,8 @@ a {
 }
 
 .hero {
-    background: url('images/bg-hero.jpg') center/cover no-repeat;
+    /*background: url('images/bg-hero.jpg') center/cover no-repeat;*/
+    background-color: #36454F;
     color: white;
     text-align: center;
     height: 100vh;
