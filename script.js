@@ -25,9 +25,9 @@ document.querySelectorAll(".reveal").forEach(element => {
 
 // Skills List
 const skills = [
-    "Python", "SQL", "Tableau", "Power BI", "Machine Learning",
-    "Deep Learning", "Data Visualization", "Pandas", "NumPy",
-    "Excel", "Git", "Data Cleaning", "Statistics", "NLP"
+    "Python", "SQL", "Power BI", "Machine Learning",
+    "Data Visualisation", "Pandas", "NumPy",
+    "Excel", "Git", "Data Cleaning"
 ];
 
 const skillsList = document.getElementById("skillsList");
